@@ -1,0 +1,35 @@
+"""
+
+Strategy Pattern: Software-Entwurfsmuster für variable Verhaltensstrategien
+
+"""
+
+
+# Was ist das Strategy Pattern
+'''
+     Strategy Design Patterns fokussieren das Verhalten von Software.
+     Strategy Pattern statten eine Software mit verschiedenen Lösungsmethoden.
+     Hinter Strategien steht eine Familie von Algorithemen
+     
+'''
+
+
+# Wie sieht die UML-Darstellung eines Strategy Patterns aus?
+'''
+    Die Strategy Pattern werden normalerweise mit der grafischen  UML entworfen.
+    Für die Darstellung eines Strategie-Entwurfsmusters wird in der Regel ein Klassendiagramm mit mindestens drei Grundkomponenten gewählt:
+
+    Context (Kontext bzw. Kontext-Klasse)
+    Strategy (Strategie bzw. Strategie-Klasse)
+    ConcreteStrategy (Konkrete Strategie)
+    
+'''
+
+
+# Vorteile von StrategyPattern
+'''
+     besseren Strukturierung des Programmcodes durch die Zerlegung 
+     Sauber Code
+     
+     
+'''
